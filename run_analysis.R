@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-setwd("~/Desktop/Project 3/UCI HAR Dataset")
-=======
-setwd("~/Downloads/UCI HAR Dataset")
->>>>>>> parent of 7dbe283... Project 3
+setwd("~/Desktop/Project-3/UCI HAR Dataset")
 library(plyr)
 library(data.table)
 
